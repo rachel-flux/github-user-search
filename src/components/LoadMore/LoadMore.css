@@ -1,0 +1,9 @@
+.loadMore {
+    margin:auto;
+    text-align:center;
+    padding:5px;
+    min-height:18px;
+    color:#fff;
+    background-color:#666;
+    cursor:pointer;
+}

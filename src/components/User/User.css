@@ -1,0 +1,11 @@
+.user {
+    margin:20px auto;
+    max-width:400px;
+    text-align:center;
+}
+
+.userAvatar {
+    max-width:70%;
+    display:block;
+    margin:0 auto 10px auto;
+}
